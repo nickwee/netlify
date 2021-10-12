@@ -1,7 +1,7 @@
 baseURL = "https://nickwee.com"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "Hey :wave: I'm Nick Wee!"
+title = "Hey asdfasdf I'm Nick Wee!"
 theme = "hermit"
 # enableGitInfo = true
 pygmentsCodefences  = true

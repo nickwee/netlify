@@ -55,21 +55,29 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
   # Social Icons
   # Check https://github.com/Track3/hermit#social-icons for more info.
+
+  [[params.social]]
+    name = "email"
+    url = "mailto:theweemachine@gmail.com"
+  [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/nwee/"
+
   [[params.social]]
     name = "twitter"
-    url = "https://twitter.com/"
+    url = "https://twitter.com/swaggywee"
 
   [[params.social]]
     name = "instagram"
-    url = "https://instagram.com/"
+    url = "https://instagram.com/swaggywee"
 
   [[params.social]]
     name = "github"
-    url = "https://github.com/"
+    url = "https://github.com/nickwee"
 
 [menu]
 
-  [[menu.main]]
+/*  [[menu.main]]
     name = "Posts"
     url = "posts/"
     weight = 10
@@ -77,4 +85,4 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   [[menu.main]]
     name = "About"
     url = "about-hugo/"
-    weight = 20
+    weight = 20 */
